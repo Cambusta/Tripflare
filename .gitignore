@@ -1,0 +1,6 @@
+.vscode/*
+**/bin
+**/bck
+**/build
+
+nightly_id.txt
