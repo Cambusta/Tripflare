@@ -18,6 +18,7 @@ class CfgPatches
 };
 
 #include "CfgFunctions.hpp"
+#include "CfgMineTriggers.hpp"
 #include "CfgAmmo.hpp"
 #include "CfgMagazines.hpp"
 #include "CfgWeapons.hpp"

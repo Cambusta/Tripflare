@@ -9,6 +9,7 @@ class CfgAmmo
         indirectHitRange = 0;
         minimumSafeZone = 0;
         defaultMagazine = "DNCT_Tripflare_Mine_Mag";
+        mineTrigger = "DNCT_Tripflare_Trigger";
         craterEffects = "";
 
         soundHit[] =
