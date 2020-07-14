@@ -3,17 +3,17 @@ class CfgWeapons
     class Default;
     class Put: Default
     {
-        muzzles[] += 
-        { 
-            "DNCT_TripwireFlareMuzzle"
+        muzzles[] +=
+        {
+            "DNCT_Tripflare_Muzzle"
         };
 
         class PutMuzzle: Default {};
-        class DNCT_TripwireFlareMuzzle: PutMuzzle
+        class DNCT_Tripflare_Muzzle: PutMuzzle
         {
             magazines[] =
             {
-                "DNCT_TripwireFlare_Mine_Mag"
+                "DNCT_Tripflare_Mine_Mag"
             };
         };
     };
