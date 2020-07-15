@@ -1,6 +1,6 @@
-params["", "_victim", "", "_tripflarePosASL", "", "", "_ammo", "", ""];
+params["", "_victim", "", "_tripwirePosASL", "", "", "_ammo", "", ""];
 
-private _tripwirePosATL = ASLToATL _tripflarePosASL;
+private _tripwirePosATL = ASLToATL _tripwirePosASL;
 
 ["DNCT_TripflareTriggered", _tripwirePosATL] call CBA_fnc_localEvent;
 
