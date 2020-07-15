@@ -4,8 +4,8 @@ class CfgPatches
     {
         name = "Tripwire Flare";
         author = "Dunecat (aka Cambusta)";
-        url = "";
-        version = "1.0";
+        url = "https://github.com/Cambusta/Tripflare";
+        version = "%VERSION%";
         requiredVersion = 0.1;
         requiredAddons[] = {
             "A3_Weapons_F",
@@ -13,7 +13,7 @@ class CfgPatches
             "CBA_MAIN"
         };
         units[] = {
-            "DNCT_TripwireFlare_Mine"
+            "DNCT_TripflareMine"
         };
     };
 };
