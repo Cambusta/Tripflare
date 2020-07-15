@@ -4,7 +4,7 @@ class CfgFunctions
     {
         class functions
         {
-            class Tripflare
+            class tripflare
             {
                 file = "\dnct_tripflare\scripts\dnct_tripflare.sqf";
                 description = "Tripwire flare spawn script";

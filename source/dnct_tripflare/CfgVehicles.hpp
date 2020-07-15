@@ -6,7 +6,8 @@ class CfgVehicles
     {
         ammo = "DNCT_Tripflare_Wire_Ammo";
 
-        author = "Cambusta (aka Dunecat)";
         scope = 2;
+        author = "Cambusta (aka Dunecat)";
+        displayName = "Flare Tripwire Mine";
     };
 };

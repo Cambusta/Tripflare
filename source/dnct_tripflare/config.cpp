@@ -9,7 +9,8 @@ class CfgPatches
         requiredVersion = 0.1;
         requiredAddons[] = {
             "A3_Weapons_F",
-            "A3_Weapons_F_Explosives"
+            "A3_Weapons_F_Explosives",
+            "CBA_MAIN"
         };
         units[] = {
             "DNCT_TripwireFlare_Mine"
@@ -21,3 +22,4 @@ class CfgPatches
 #include "CfgAmmo.hpp"
 #include "CfgMagazines.hpp"
 #include "CfgWeapons.hpp"
+#include "CfgVehicles.hpp"

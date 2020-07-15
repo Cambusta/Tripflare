@@ -1,5 +1,11 @@
 name = "Tripflare";
-overview = "";
+picture = "\dnct_tripflare\resources\tripflare_logo.paa";
+logo = "\dnct_tripflare\resources\tripflare_logo.paa";
+logoOver = "\dnct_tripflare\resources\tripflare_logo.paa";
+tooltip = "Tripflare %VERSION%";
+tooltipOwned = "Tripflare owned";
+overview = "Adds flare tripwire mine.";
+overviewPicture = "\dnct_tripflare\resources\tripflare_logo.paa";
 author = "Dunecat (aka Cambusta)";
 actionName = "GitHub";
 action = "https://github.com/Cambusta/Tripflare";

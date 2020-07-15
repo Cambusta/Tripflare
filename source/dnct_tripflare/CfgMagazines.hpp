@@ -7,7 +7,7 @@ class CfgMagazines
         ammo = "DNCT_Tripflare_Wire_Ammo";
 
         author = "Cambusta (aka Dunecat)";
-        displayName = "Tripwire Flare Mine";
-        descriptionShort = "Type: Signal tripwire mine";
+        displayName = "Flare Tripwire Mine";
+        descriptionShort = "Type: Signal tripwire mine<br />Rounds: 1";
     };
 };

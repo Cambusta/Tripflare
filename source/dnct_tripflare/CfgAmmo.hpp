@@ -11,13 +11,6 @@ class CfgAmmo
         defaultMagazine = "DNCT_Tripflare_Mine_Mag";
         craterEffects = "";
 
-        soundHit[] =
-        {
-            "\A3\Sounds_F\arsenal\explosives\mines\Explosion_tripwire_landmine",
-            3.1622777,
-            1,
-            1500
-        };
         SoundSetExplosion[] =
         {
             "TrainingMine_Exp_SoundSet",
