@@ -9,13 +9,11 @@ class CfgAmmo
         indirectHitRange = 0;
         minimumSafeZone = 0;
         defaultMagazine = "DNCT_Tripflare_Mine_Mag";
+        explosionEffects = "";
         craterEffects = "";
 
-        SoundSetExplosion[] =
-        {
-            "TrainingMine_Exp_SoundSet",
-            "TrainingMine_Report_SoundSet"
-        };
+        soundHit[] = {};
+        SoundSetExplosion[] = {};
 
         class EventHandlers
         {
