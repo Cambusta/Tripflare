@@ -12,6 +12,9 @@ class CfgAmmo
         explosionEffects = "";
         craterEffects = "";
 
+        model = "\A3\Weapons_F\Explosives\Flare_tripwire.p3d";
+        mineModelDisabled = "\A3\Weapons_F\Explosives\Flare_tripwire_d.p3d";
+
         soundHit[] = {};
         SoundSetExplosion[] = {};
 
